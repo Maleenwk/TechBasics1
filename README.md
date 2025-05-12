@@ -29,9 +29,13 @@ What I will achieve this Semester:
 | :--- | :-----------: | ------: |
 | week1 | ASCII art using the print function | bunny |
 | week2 | a short game showcasing use of conditional statements, user inputs, time delays and branching in the storyline | pet evolution game |
+| week3 | advanced ASCII art |  |
+| week4 | improvement of the game from week2|  |
+| week5 | inventory game | Supermarket shopping experience |
+
 
 - [x] week1
-- [ ] week2
+- [x] week2
 - [ ] week3
-- [ ] week4
-- [ ] week5
+- [x] week4
+- [x] week5
