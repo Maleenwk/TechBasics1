@@ -3,6 +3,7 @@
 
 I got the code from a shared file that came with the assignment. I picked it because I know the basic idea of Blackjack, so I thought it would be easier to understand. Also, it seemed fun and not too long.
 https://github.com/geekcomputers/Python/blob/c675e19a1108cd98033134ca14cb7308b3ab96c2/BlackJack_game/blackjack.py
+
 ---
 
 2. What does the program do? What’s the general structure of the program?
