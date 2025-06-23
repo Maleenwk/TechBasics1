@@ -27,11 +27,16 @@ What I will achieve this Semester:
 
 | Assignment | Description | Idea
 | :--- | :-----------: | ------: |
-| week1 | ASCII art using the print function | bunny |
-| week2 | a short game showcasing use of conditional statements, user inputs, time delays and branching in the storyline | pet evolution game |
-| week3 | advanced ASCII art |  |
-| week4 | improvement of the game from week2|  |
-| week5 | inventory game | Supermarket shopping experience |
+| week1 | ASCII Art | bunny |
+| week2 | Game | Carnival Escape Game |
+| week3 | Advanced ASCII Art | - |
+| week4 | Refactoring the week2 Game | - |
+| week5 | Inventory Game | Supermarket shopping experience |
+| week6 | - | - |
+| week7 | Grade Calculator | - |
+| week8 | Pygame Animation | animate the cat wizard image from my README |
+| week9 | Interactive Game | use gardening game idea, grow plants with keyboard and mouse interactions |
+| week10 | Virtual Environment | color my output by integrating termcolor, also change cowsay character|
 
 
 - [x] week1
@@ -39,3 +44,8 @@ What I will achieve this Semester:
 - [ ] week3
 - [x] week4
 - [x] week5
+- [x] week6
+- [x] week7
+- [x] week8
+- [x] week9
+- [x] week10
